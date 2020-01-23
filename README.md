@@ -1,4 +1,6 @@
 # git-git-git
 
 
-Hello :)
+Hello!
+
+Welcome to my repo :)
